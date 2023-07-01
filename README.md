@@ -1,5 +1,5 @@
 
-# ✨ MiMC5 Circom Circuit ✨
+# ✨ MiMC5 Circom Circuit and Solidity ✨
 This circuit takes two inputs, x and k and return the hash of x.
 
 # Requirements 🔧
